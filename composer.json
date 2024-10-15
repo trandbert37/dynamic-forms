@@ -22,9 +22,6 @@
         "twig/twig": "^2.15|^3.0",
         "symfony/options-resolver": "^5.4|^6.3|^7.0"
     },
-    "conflict": {
-        "phpunit/phpunit": ">=10"
-    },
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
